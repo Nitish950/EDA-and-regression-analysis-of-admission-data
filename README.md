@@ -1,7 +1,7 @@
 # EDA-and-regression-analysis-of-admission-data
 1. Imported the data of 500 students.
 2. Used pandas, sklearn, numpy and matplolib libraries
-3. Relation between factors such as GRE and TOEFL scores were studied along with university rating
+3. The relation between factors such as GRE and TOEFL scores were studied along with university rating
 4. Optimized linear and random forest regressors to suit the best model.
 5. Most influential parameters were determined using regression analysis
 
