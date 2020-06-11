@@ -2,8 +2,10 @@
 1. Imported the data of 500 students.
 2. Used pandas, sklearn, numpy and matplolib libraries
 3. The relation between factors such as GRE and TOEFL scores were studied along with university rating
-4. Optimized linear and random forest regressors to suit the best model.
+4. Optimized linear and random forest regressors to suit the best model
 5. Most influential parameters were determined using regression analysis
+
+From the analysis,it was concluded that Undergraduate CGPA is the most important feature followed by GRE and TOEFL scores for graduate admissions. 
 
 **Code and Resources used:**
 Python version : 3.7
